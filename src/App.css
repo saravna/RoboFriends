@@ -1,0 +1,13 @@
+h1{
+    color:red;
+    font-family: Janda Curlygirl Pop Regular;
+    font-size: -webkit-xx-large;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Janda Curlygirl Pop Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Janda Curlygirl Pop Regular'), url('JandaCurlygirlPop.woff') format('woff');
+    }
