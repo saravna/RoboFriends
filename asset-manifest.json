@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/buddylist/static/css/main.44b14f6a.chunk.css",
-    "main.js": "/buddylist/static/js/main.cf47f16f.chunk.js",
-    "main.js.map": "/buddylist/static/js/main.cf47f16f.chunk.js.map",
+    "main.css": "/buddylist/static/css/main.2ac30984.chunk.css",
+    "main.js": "/buddylist/static/js/main.2e34e19b.chunk.js",
+    "main.js.map": "/buddylist/static/js/main.2e34e19b.chunk.js.map",
     "runtime~main.js": "/buddylist/static/js/runtime~main.5126bf6a.js",
     "runtime~main.js.map": "/buddylist/static/js/runtime~main.5126bf6a.js.map",
     "static/css/2.31dafeb2.chunk.css": "/buddylist/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.144dcb25.chunk.js": "/buddylist/static/js/2.144dcb25.chunk.js",
-    "static/js/2.144dcb25.chunk.js.map": "/buddylist/static/js/2.144dcb25.chunk.js.map",
+    "static/js/2.9da3dce5.chunk.js": "/buddylist/static/js/2.9da3dce5.chunk.js",
+    "static/js/2.9da3dce5.chunk.js.map": "/buddylist/static/js/2.9da3dce5.chunk.js.map",
     "index.html": "/buddylist/index.html",
-    "precache-manifest.19781bd256b53c9d8f5357d75ab39b47.js": "/buddylist/precache-manifest.19781bd256b53c9d8f5357d75ab39b47.js",
+    "precache-manifest.78052b9c61ac67a73b63677def5d07aa.js": "/buddylist/precache-manifest.78052b9c61ac67a73b63677def5d07aa.js",
     "service-worker.js": "/buddylist/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/buddylist/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.44b14f6a.chunk.css.map": "/buddylist/static/css/main.44b14f6a.chunk.css.map",
+    "static/css/main.2ac30984.chunk.css.map": "/buddylist/static/css/main.2ac30984.chunk.css.map",
     "static/media/App.css": "/buddylist/static/media/JandaCurlygirlPop.4037afe4.woff"
   }
 }
