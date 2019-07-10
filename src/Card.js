@@ -4,7 +4,7 @@ import './Card.css';
 class Card extends Component{
     render(){
         let name=this.props.name;
-        let source='http://robohash.org/'+name+'?200x200';
+        let source='http://robohash.org/'+name+'?set=set5';
         let mail=name+'@gmail.com';
         return(
             <div className="tc bg-light-red dib pa4 ma3 br3 grow card">
