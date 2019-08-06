@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/buddylist/static/css/main.2ac30984.chunk.css",
-    "main.js": "/buddylist/static/js/main.2e34e19b.chunk.js",
-    "main.js.map": "/buddylist/static/js/main.2e34e19b.chunk.js.map",
+    "main.js": "/buddylist/static/js/main.528d6d7a.chunk.js",
+    "main.js.map": "/buddylist/static/js/main.528d6d7a.chunk.js.map",
     "runtime~main.js": "/buddylist/static/js/runtime~main.5126bf6a.js",
     "runtime~main.js.map": "/buddylist/static/js/runtime~main.5126bf6a.js.map",
     "static/css/2.31dafeb2.chunk.css": "/buddylist/static/css/2.31dafeb2.chunk.css",
     "static/js/2.9da3dce5.chunk.js": "/buddylist/static/js/2.9da3dce5.chunk.js",
     "static/js/2.9da3dce5.chunk.js.map": "/buddylist/static/js/2.9da3dce5.chunk.js.map",
     "index.html": "/buddylist/index.html",
-    "precache-manifest.78052b9c61ac67a73b63677def5d07aa.js": "/buddylist/precache-manifest.78052b9c61ac67a73b63677def5d07aa.js",
+    "precache-manifest.822902fdfea542ad27c6cc587763dab7.js": "/buddylist/precache-manifest.822902fdfea542ad27c6cc587763dab7.js",
     "service-worker.js": "/buddylist/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/buddylist/static/css/2.31dafeb2.chunk.css.map",
     "static/css/main.2ac30984.chunk.css.map": "/buddylist/static/css/main.2ac30984.chunk.css.map",

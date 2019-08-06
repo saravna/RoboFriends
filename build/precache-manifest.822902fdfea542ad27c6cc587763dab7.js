@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a35a77529ed2262182b9704bb6e8f60d",
+    "revision": "009bb2234698574390ca2f59869ecf83",
     "url": "/buddylist/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/buddylist/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "a938c261c432d574283d",
+    "revision": "3aa89d372cefe5cf29b4",
     "url": "/buddylist/static/css/main.2ac30984.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/buddylist/static/js/2.9da3dce5.chunk.js"
   },
   {
-    "revision": "a938c261c432d574283d",
-    "url": "/buddylist/static/js/main.2e34e19b.chunk.js"
+    "revision": "3aa89d372cefe5cf29b4",
+    "url": "/buddylist/static/js/main.528d6d7a.chunk.js"
   },
   {
     "revision": "9a93becbfebed25f1053",
