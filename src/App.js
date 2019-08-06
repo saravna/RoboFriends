@@ -4,6 +4,7 @@ import SearchBox from './SearchBox';
 import './App.css'
 import Cardlist from './Cardlist';
 import Scroll from './Scroll';
+import ErrorBoundary from './ErrorBoundary';
 class App extends Component{
     constructor(){
         super();
@@ -25,7 +26,9 @@ class App extends Component{
                 <h1 className="mainhead tc f1">BuddyList</h1>
                 <SearchBox searchChange={this.onSearchChange}/>
                 <Scroll>
-                    <Cardlist robots={filteredRobots}/>
+                    <ErrorBoundary>
+                        <Cardlist robots={filteredRobots}/>
+                    </ErrorBoundary>
                 </Scroll>
                 
             </div>
