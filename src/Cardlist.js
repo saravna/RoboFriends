@@ -8,7 +8,7 @@ class Cardlist extends Component{
             throw new Error('No Robots Found');
         }
         for(var i=0;i<this.props.robots.length;i++){
-            robots.push(<Card key={i} />);
+            robots.push(<Card key={i} name={this.props.robots[i]}/>);
         }
         return (
             <div>
